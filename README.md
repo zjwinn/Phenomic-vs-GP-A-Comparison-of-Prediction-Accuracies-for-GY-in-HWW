@@ -1,2 +1,2 @@
-# Phenomic-vs-GP-A-Comparison-of-Prediction-Accuracies-for-GY-in-HWW
+# Introduction
 This is a public repository for relevant code from the publication of the same name. The R code associated with this repository calls upon several files. Due to the size of the "geno_amat_coded.txt.gz" (approximatly 97Mbi), it cannot be hosted on this github page. To get access to this file, please reach out to Zachary Winn at zwinn@outlook.com to recive a copy of the data for further use. As an alternative, users may calculate an additive genomic relationship matrix using one of the many R pacakge functions available (e.g., rrBLUP::A.mat()) for use in down-stream analysis en lieu of the original file. 
